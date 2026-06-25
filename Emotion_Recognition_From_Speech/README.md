@@ -312,8 +312,8 @@ Add the following screenshots inside the **assets** folder.
 
 ## 👨‍💻 Author
 
-**K Veera**
+**Veeranjaneyulu Kopparapu**
 
 Artificial Intelligence & Machine Learning Enthusiast
 
-Developed as part of the **CodeAlpha Artificial Intelligence Internship**.
+Developed as part of the **CodeAlpha Machine Learning Internship**.
